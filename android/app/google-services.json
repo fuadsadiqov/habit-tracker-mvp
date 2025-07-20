@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "56406798360",
+    "project_id": "habit-track-app-defda",
+    "storage_bucket": "habit-track-app-defda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56406798360:android:7650dd074cb624e147d36d",
+        "android_client_info": {
+          "package_name": "com.fuadsadiqov.habittrackermvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56406798360-g0mg3c7ipkh7rqifoci03rhltaosgrc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSI5gomifkdlr3larhu9GAHlPdhDGC6P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56406798360-g0mg3c7ipkh7rqifoci03rhltaosgrc9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56406798360-9ne4k3bp9pr7ljcamjfouobq8r23b63b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fuadsadiqov.habittrackermvp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56406798360:android:5a45b9aa6e8e65d647d36d",
+        "android_client_info": {
+          "package_name": "com.fuadsadiqov.habittrackermvp_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56406798360-g0mg3c7ipkh7rqifoci03rhltaosgrc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSI5gomifkdlr3larhu9GAHlPdhDGC6P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56406798360-g0mg3c7ipkh7rqifoci03rhltaosgrc9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "56406798360-9ne4k3bp9pr7ljcamjfouobq8r23b63b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fuadsadiqov.habittrackermvp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
