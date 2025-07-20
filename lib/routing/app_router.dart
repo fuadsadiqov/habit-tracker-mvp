@@ -12,6 +12,12 @@ GoRouter buildRouter(bool seenOnboarding) {
       final isGoingToLogin = state.matchedLocation == '/login';
       final isGoingToOnboarding = state.matchedLocation == '/onboarding';
 
+      print("🚀 ~ GoRouterbuildRouter ~ isLoggedIn: ${isLoggedIn}");
+      print("🚀 ~ GoRouterbuildRouter ~ isGoingToLogin: ${isGoingToLogin}");
+      print(
+        "🚀 ~ GoRouterbuildRouter ~ isGoingToOnboarding: ${isGoingToOnboarding}",
+      );
+
       if (!seenOnboarding && !isGoingToOnboarding) return '/onboarding';
       if (!isLoggedIn && !isGoingToLogin && !isGoingToOnboarding)
         return '/login';
